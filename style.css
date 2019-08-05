@@ -1,0 +1,62 @@
+#shipmentDivMain{
+    background-color: #dbdbdb;
+    padding:20px;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+#shipmentDiv{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #b1b1b1;
+    padding:20px;
+    padding-top:5px;
+    margin-top:10px;
+    margin-bottom:10px;
+    border-left: 10px solid #f1df3d;
+}
+#shipmentSet{
+    display: inline-block;
+    position: relative;
+    left: 0;
+}
+#buttonForDetails{
+    position: relative;
+    margin-top:35px;
+    float:right;
+}
+#servicesDiv{
+    font-family: monospace;
+    background-color: #999999;
+    padding:20px;
+    margin:0px;
+    margin-top:5px;
+    margin-bottom:5px;
+    width:30%;
+}
+#pageTable{
+    font-family: monospace;
+    background-color: #e9e9e9;
+    border-collapse: collapse;
+    margin:10px;
+    height:5px;
+}
+#tdPage{
+    border: 1px solid rgb(105, 105, 155);
+    margin:0;
+}
+#pageDiv{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size:0.75em;
+    padding:0px;
+    width:25px;
+}
+#pageSelector{
+    background-color: #989899;
+    font-size: 2em;
+    width:20px;
+    height:100%;
+    padding-left:5px;
+}
+#tdPageIndicator{
+    background-color: white;
+}
