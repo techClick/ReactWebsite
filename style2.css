@@ -1,0 +1,33 @@
+body{
+    margin:30px;
+}
+button {
+    border-radius: 4px;
+    background-color: #f4511e;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 17px;
+    padding: 10px;
+    width: 100px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 1px;
+}
+#pageDiv:hover { 
+    background: #9b9ad6;
+    cursor: pointer; 
+}
+#pageSelector:hover{
+    background: #c9c9ca;
+    cursor: pointer;
+}
+#pageDiv a { 
+    display: block; 
+    border: 1px solid black;
+    padding: 16px; 
+}
+a { 
+    text-decoration: none;
+    color: #222;
+}
